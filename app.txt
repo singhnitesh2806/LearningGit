@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 game app.
-=======
 movies app.
->>>>>>> movies
